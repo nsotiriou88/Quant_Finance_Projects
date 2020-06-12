@@ -1,5 +1,27 @@
 # Git ignore file for files/folders to exclude.
 
-.DS_Store
+# Folders
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Big csv files (check for them in G-Drive)
+*csv
+
+# Files
+*DS_Store
 *.pyc
-*.csv
+*.ipynb_notebooks
+*.log
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.idea/*
+.vscode/*
