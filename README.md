@@ -26,14 +26,20 @@ Udacity Portfolio Projects.
 
 ### Term 2
 
-5. **upcoming**
+5. **NLP on Financial Statements**
 
-    upcoming.
+    In this project, we'll do NLP Analysis on 10-k financial statements to generate an alpha factor. For the dataset, we'll be using the end of day from Quotemedia and Loughran-McDonald sentiment word lists.
+
+6. **coming**
+
+    coming.
 
 ## Others
 
 There is also a Monte Carlo Simulation script for _Value at Risk Model (VaR)_.
 
-__NOTE__
+-------
+
+__NOTES__
 
 The data samples for some of the quiz sections are stored on the Google and OneDrive drives (eg. `.csv`, `.zip`).
