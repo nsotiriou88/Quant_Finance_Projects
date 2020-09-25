@@ -30,11 +30,15 @@ Udacity Portfolio Projects.
 
     In this project, we'll do NLP Analysis on 10-k financial statements to generate an alpha factor. For the dataset, we'll be using the end of day from Quotemedia and Loughran-McDonald sentiment word lists.
 
-6. **coming**
+6. **Sentiment Analysis with Neural Networks**
 
-    In this project, we'll build your own deep learning model to classify the sentiment of messages from StockTwits, a social network for investors and traders. Our model will be able to predict if any particular message is positive or negative. From this, we'll be able to generate a signal of the public sentiment for various ticker symbols.
+    In this project, we'll build our own deep learning model to classify the sentiment of messages from StockTwits, a social network for investors and traders. Our model will be able to predict if any particular message is positive or negative. From this, we'll be able to generate a signal of the public sentiment for various ticker symbols.
 
-7. **coming**
+7. **Combining Signals for Enhanced Alpha**
+
+    In this project, we'll combine signals on a random forest for enhanced alpha. While implementing this, we'll have to solve the problem of overlapping samples. For the dataset, we'll be using the end of day from Quotemedia and sector data from Sharadar.
+
+8. **coming**
 
     coming.
 
