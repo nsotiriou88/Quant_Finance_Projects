@@ -1,0 +1,5 @@
+# To-Do List
+
+- remove/change descriptions
+- make the projects more project like
+- remove TODOs
