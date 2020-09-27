@@ -38,9 +38,9 @@ Udacity Portfolio Projects.
 
     In this project, we'll combine signals on a random forest for enhanced alpha. While implementing this, we'll have to solve the problem of overlapping samples. For the dataset, we'll be using the end of day from Quotemedia and sector data from Sharadar.
 
-8. **coming**
+8. **Backtesting**
 
-    coming.
+    In this project, we will build a fairly realistic backtester that uses the __Barra__ data. The backtester will perform portfolio optimization that includes transaction costs, and we'll implement it with computational efficiency in mind, to allow for a reasonably fast backtest. We'll also use performance attribution to identify the major drivers of our portfolio's profit-and-loss (PnL). We will have the option to modify and customize the backtest as well.
 
 ## Others
 
