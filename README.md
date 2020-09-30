@@ -2,9 +2,15 @@
 
 ## Intro
 
-Udacity Portfolio Projects.
+Quantitative Finace and Machine Learning for Finance Projects.
 
 ## Parts
+
+There are two terms that projects were based on different focus.
+
+- First term is about __quantitative finance__. The projects include traditional trading strategies, Alpha and Beta generation and multi-factor models that combine different trading signals. In this term, the focus is to get a basic understanding of portfolio structure and management.
+
+- In second term is more focused on __Artificial Intelligence for Finance__. We introduce Machine Learning, NLP and Deep Learning techniques to boost signal performance for our research. The projects include Natural Language Processing on financial statements, sentiment analysis with neural network techniques(tweets etc.), feature selection techniques and model explainability with SHapley (a game theory approach). We finally, perform backtesting on our research theory to ensure that our strategy is fully tested and ready to be implemented in real time.
 
 ### Term 1
 

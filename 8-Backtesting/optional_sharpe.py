@@ -1,3 +1,7 @@
+# Import libraries (additional module)
+import numpy as np
+
+
 def get_alpha_vec(B_alpha):
     """
     Create an alpha vecrtor
@@ -11,8 +15,6 @@ def get_alpha_vec(B_alpha):
     alpha_vec : patsy.design_info.DesignMatrix 
         alpha vecrtor
     """
-    
-    # TODO: Implement
     n = len(B_alpha)
     alpha_vec = np.zeros(n)
     window = 20
