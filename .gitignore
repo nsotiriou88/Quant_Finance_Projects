@@ -5,7 +5,7 @@
 */.ipynb_checkpoints/*
 
 # Big csv files (check for them in G-Drive)
-*csv
+data/*csv
 *zip
 
 # Files
